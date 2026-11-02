@@ -177,7 +177,7 @@ class AlbertLivingstan:
 | 🛡️ | **Cisco Cybersecurity Internship** | Hands-on network security, log analysis & protocol development |
 | 🌐 | **Web Development Internship** | Full-stack Python app with REST APIs & MongoDB at Nexus Global Solutions |
 | 🎓 | **HSC — Presentation Convent Matriculation** | Higher Secondary Certificate (Biology), Coimbatore — May 2023 |
-| 💻 | **Portfolio Live on Vercel** | Personal portfolio deployed at [albertcom.vercel.app](https://albertcom.vercel.app/) |
+| 💻 | **Portfolio Live on Vercel** | Personal portfolio deployed at [albertcom.vercel.app](https://albert3.vercel.app/) |
 
 </div>
 
