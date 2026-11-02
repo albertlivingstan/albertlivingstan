@@ -160,7 +160,7 @@ class AlbertLivingstan:
 
 | Project | Stack | Highlights |
 |:-------:|:-----:|:----------:|
-| [**Portfolio Website**](https://albertcom.vercel.app/) | HTML · CSS · JavaScript · Vercel | Personal portfolio showcasing projects, skills & experience — live at albertcom.vercel.app |
+| [**Portfolio Website**](https://albert3.vercel.app/) | HTML · CSS · JavaScript · Vercel | Personal portfolio showcasing projects, skills & experience — live at albertcom.vercel.app |
 | **Cybersecurity Log Analyzer** | Python · Log Parsing | Automated suspicious activity detection from network logs during Cisco internship |
 | **Full-Stack Web App** | Python · MongoDB · REST API · HTML/CSS | Responsive web application with complete backend, session management & DB integration |
 
