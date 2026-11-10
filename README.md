@@ -13,8 +13,8 @@
   <a href="https://www.linkedin.com/in/albert-livingstan-g/">
     <img src="https://img.shields.io/badge/LinkedIn-Albert%20Livingstan-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://albertcom.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-albertcom.vercel.app-38BDAE?style=flat-square&logo=vercel&logoColor=white" />
+  <a href="https://albert3.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-albert3.vercel.app-38BDAE?style=flat-square&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:albertlivingstan73@gmail.com">
     <img src="https://img.shields.io/badge/Email-albertlivingstan73%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
@@ -160,7 +160,7 @@ class AlbertLivingstan:
 
 | Project | Stack | Highlights |
 |:-------:|:-----:|:----------:|
-| [**Portfolio Website**](https://albert3.vercel.app/) | HTML · CSS · JavaScript · Vercel | Personal portfolio showcasing projects, skills & experience — live at albertcom.vercel.app |
+| [**Portfolio Website**](https://albert3.vercel.app/) | HTML · CSS · JavaScript · Vercel | Personal portfolio showcasing projects, skills & experience — live at albert3.vercel.app |
 | **Cybersecurity Log Analyzer** | Python · Log Parsing | Automated suspicious activity detection from network logs during Cisco internship |
 | **Full-Stack Web App** | Python · MongoDB · REST API · HTML/CSS | Responsive web application with complete backend, session management & DB integration |
 
@@ -177,7 +177,7 @@ class AlbertLivingstan:
 | 🛡️ | **Cisco Cybersecurity Internship** | Hands-on network security, log analysis & protocol development |
 | 🌐 | **Web Development Internship** | Full-stack Python app with REST APIs & MongoDB at Nexus Global Solutions |
 | 🎓 | **HSC — Presentation Convent Matriculation** | Higher Secondary Certificate (Biology), Coimbatore — May 2023 |
-| 💻 | **Portfolio Live on Vercel** | Personal portfolio deployed at [albertcom.vercel.app](https://albert3.vercel.app/) |
+| 💻 | **Portfolio Live on Vercel** | Personal portfolio deployed at [albert3.vercel.app](https://albert3.vercel.app/) |
 
 </div>
 
@@ -216,7 +216,7 @@ class AlbertLivingstan:
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://albertcom.vercel.app/">
+  <a href="https://albert3.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-38BDAE?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
